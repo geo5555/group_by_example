@@ -1,0 +1,8 @@
+rtr1,cisco
+rtr3,cisco
+rtr5,cisco
+rtr6,cisco
+rtr2,hp
+rtr7,hp
+rtr4,huawei
+rtr8,huawei
